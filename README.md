@@ -4,7 +4,7 @@ Hi 👋 My name is Himanshu Jain
 A Data Science Enthusiast From Madhya Pradesh, India
 ----------------------------------------------------
 
-A data science enthusiast, learning python from last one year with in-depth knowledge along with SQL, MySQL, MongoDB, Statistics, Machine Learning , Big Data with hand on EDA.
+A data science enthusiast, learning python from last one year with in-depth knowledge along with SQL, MySQL, MongoDB, Statistics, Machine Learning , Big Data with hands on EDA.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [hjain4605@gmail.com](mailto:hjain4605@gmail.com)
